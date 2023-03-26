@@ -1,0 +1,10 @@
+# FILES
+*.json
+settings.yml
+
+# DIRECTORIES
+venv/**
+
+__pycache__/**
+
+.idea/**
